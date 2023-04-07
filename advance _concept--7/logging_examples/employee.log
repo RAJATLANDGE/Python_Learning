@@ -1,0 +1,4 @@
+2022-05-14 22:25:33,618 -> INFO -> Employee created with id: 1, name: Saurabh -> 23 -> __init__
+2022-05-14 22:26:45,430 -> INFO -> Employee created with id: 1, name: Saurabh -> 23 -> __init__
+2022-05-15 12:56:25,587 -> INFO -> Employee created with id: 1, name: Saurabh -> 14 -> __init__
+2022-05-15 12:57:04,053 -> INFO -> Employee created with id: 1, name: Saurabh -> 14 -> __init__

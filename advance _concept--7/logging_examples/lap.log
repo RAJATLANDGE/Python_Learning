@@ -1,0 +1,9 @@
+INFO -> laptop crated with id: 1, brand: Dell -> 21
+INFO -> laptop crated with id: 1, brand: Dell -> 21
+INFO -> laptop crated with id: 23, brand: Sony -> 21
+INFO -> laptop crated with id: 1, brand: Dell -> 21
+INFO -> laptop crated with id: 2, brand: Sony -> 21
+INFO -> laptop crated with id: 1, brand: Dell -> 14
+INFO -> laptop crated with id: 2, brand: Sony -> 14
+2022-05-15 12:57:04,052 ->INFO -> laptop crated with id: 1, brand: Dell -> 14
+2022-05-15 12:57:04,053 ->INFO -> laptop crated with id: 2, brand: Sony -> 14

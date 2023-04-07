@@ -1,0 +1,40 @@
+2022-05-12 21:28:54,033 -> INFO -> Addition called -> 25 -> addtion
+2022-05-12 21:28:54,033 -> INFO -> Multiplication called -> 33 -> multiplication
+2022-05-12 21:28:54,033 -> INFO -> Multiplication Success -> 37 -> multiplication
+2022-05-12 21:28:54,033 -> INFO -> Subtraction called -> 29 -> subtraction
+2022-05-12 21:28:54,033 -> INFO -> Division called -> 41 -> division
+2022-05-12 21:28:54,033 -> INFO -> Division called -> 41 -> division
+2022-05-12 21:28:54,033 -> ERROR -> division by zero -> 45 -> division
+2022-05-12 22:04:02,075 -> INFO -> Addition called -> 25 -> addtion
+2022-05-12 22:04:02,075 -> INFO -> Multiplication called -> 33 -> multiplication
+2022-05-12 22:04:02,075 -> INFO -> Multiplication Success -> 37 -> multiplication
+2022-05-12 22:04:02,077 -> INFO -> Subtraction called -> 29 -> subtraction
+2022-05-12 22:04:02,077 -> INFO -> Division called -> 41 -> division
+2022-05-12 22:04:02,077 -> INFO -> Division called -> 41 -> division
+2022-05-12 22:04:02,077 -> ERROR -> division by zero -> 45 -> division
+2022-05-12 22:04:02,077 -> INFO -> Addition called -> 25 -> addtion
+2022-05-12 22:04:02,077 -> INFO -> Multiplication called -> 33 -> multiplication
+2022-05-12 22:07:51,894 -> INFO -> Addition called -> 25 -> addtion
+2022-05-12 22:07:51,894 -> INFO -> Multiplication called -> 33 -> multiplication
+2022-05-12 22:07:51,894 -> INFO -> Multiplication Success -> 37 -> multiplication
+2022-05-12 22:07:51,894 -> INFO -> Subtraction called -> 29 -> subtraction
+2022-05-12 22:07:51,894 -> INFO -> Division called -> 41 -> division
+2022-05-12 22:07:51,894 -> INFO -> Division called -> 41 -> division
+2022-05-12 22:07:51,894 -> ERROR -> division by zero -> 45 -> division
+2022-05-12 22:07:51,894 -> INFO -> Addition called -> 25 -> addtion
+2022-05-12 22:07:51,894 -> INFO -> Multiplication called -> 33 -> multiplication
+2022-05-12 22:07:51,894 -> DEBUG -> one of the input was zero -> 35 -> multiplication
+2022-05-12 22:10:50,460 -> INFO -> Addition called -> 25 -> addtion
+2022-05-12 22:10:50,460 -> INFO -> Multiplication called -> 33 -> multiplication
+2022-05-12 22:10:50,460 -> INFO -> Multiplication Success -> 37 -> multiplication
+2022-05-12 22:10:50,460 -> INFO -> Subtraction called -> 29 -> subtraction
+2022-05-12 22:10:50,460 -> INFO -> Division called -> 41 -> division
+2022-05-12 22:10:50,460 -> INFO -> Division called -> 41 -> division
+2022-05-12 22:10:50,460 -> ERROR -> division by zero -> 45 -> division
+2022-05-12 22:10:50,460 -> INFO -> Addition called -> 25 -> addtion
+2022-05-12 22:10:50,460 -> INFO -> Multiplication called -> 33 -> multiplication
+2022-05-12 22:10:50,460 -> DEBUG -> one of the input was zero -> 35 -> multiplication
+2022-05-12 22:10:50,460 -> INFO -> Subtraction called -> 29 -> subtraction
+2022-05-12 22:10:50,460 -> INFO -> Division called -> 41 -> division
+2022-05-12 22:10:50,460 -> INFO -> Division called -> 41 -> division
+2022-05-12 22:10:50,460 -> ERROR -> division by zero -> 45 -> division
