@@ -1,0 +1,46 @@
+1:Shikhar Dhawan
+2:Bhuvneshwar Kumar (vc)
+3:Yuzvendra Chahal
+4:Deepak Chahar
+5:Rahul Chahar
+6:Varun Chakravarthy
+7:Ruturaj Gaikwad
+8:Krishnappa Gowtham
+9:Ishan Kishan (wk)
+10:Ravisrinivasan Sai Kishore
+11:Devdutt Padikkal
+12:Manish Pandey
+13:Hardik Pandya
+14:Krunal Pandya
+15:Ishan Porel
+16:Nitish Rana
+17:Navdeep Saini
+18:Chetan Sakariya
+19:Sanju Samson (wk)
+20:Prithvi Shaw
+21:Arshdeep Singh
+22:Simarjeet Singh
+23:Sandeep Warrier
+24Kuldeep Yadav
+25:Suryakumar Yadav
+26:Rahul Dravid (head coach) 
+27:Sudheer Asnani (Manager)
+28:Paras Mhambrey (Bowling coach)
+29:T Dilip (Fielding coach) 
+30:Ashish Kaushik (Physio)
+31:Niranjan Pandit (Physio)
+32:Anand Date (trainer)
+33:AI Harsha (Trainer)
+34:Ashok Sadh (Training assistant - throwdown specialist)
+35:Sourav Ambadkar (Throwdown specialist)
+36:Nandan Majhi (Masseur)
+37:Mangesh Gaikwad (Masseur)
+38:L Varun (Analyst)
+39:Anand Subramaniam (media manager)
+40:Ameya Tilak (Content producer)
+41:Abhijit Salvi (Team doctor)
+42:Ravindra Dholpure (Anti-corruption and security officer)
+43:Sumeet Mallapurkar (Logistics manager).
+
+
+
